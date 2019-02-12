@@ -1,0 +1,9 @@
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\bin\Debug\netcoreapp1.1\ClockAngle.deps.json
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\bin\Debug\netcoreapp1.1\ClockAngle.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\bin\Debug\netcoreapp1.1\ClockAngle.pdb
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\obj\Debug\netcoreapp1.1\ClockAngle.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\obj\Debug\netcoreapp1.1\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\obj\Debug\netcoreapp1.1\ClockAngle.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\obj\Debug\netcoreapp1.1\ClockAngle.AssemblyInfo.cs
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\obj\Debug\netcoreapp1.1\ClockAngle.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle\obj\Debug\netcoreapp1.1\ClockAngle.pdb

@@ -1,0 +1,17 @@
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.AssemblyInfo.cs
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.Test.deps.json
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.Test.runtimeconfig.json
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.Test.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.Test.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.Test.pdb
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\bin\Debug\netcoreapp1.1\ClockAngle.pdb
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.csproj.CopyComplete
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.dll
+C:\Users\Dave\source\repos\ClockAngle.Solution\ClockAngle.Test\obj\Debug\netcoreapp1.1\ClockAngle.Test.pdb
